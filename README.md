@@ -1,2 +1,2 @@
-# MangaBook
-Site de mangás com foco em fullstack
+# C#Básico
+Projeto Iniciantes com C#
